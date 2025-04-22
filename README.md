@@ -1,4 +1,4 @@
-# Michy's Website
+# Introduction
 Hey!
 
 I'm Michael, an incoming freshman at the University of Texas at Austin, where I'm studying computer science in the Turing Scholars Honors Program.
@@ -7,9 +7,9 @@ I enjoy competitive programming and artificial intelligence/machine learning, an
 
 Some other hobbies I have are tennis, speedcubing, chess, k-pop, and anime!
 
+# Contact
 Feel free to reach out to me 
 Discord: @michyjz
 Instagram: @michael.jxu
 Github: @michyjz
-
-🧡 MX
+Email: jiazhuo.xu@gmail.com
