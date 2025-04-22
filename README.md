@@ -7,9 +7,16 @@ I enjoy competitive programming and artificial intelligence/machine learning, an
 
 Some other hobbies I have are tennis, speedcubing, chess, k-pop, and anime!
 
+# Projects
+Once I start working on some projects, I'll post them here!
+
 # Contact
 Feel free to reach out to me 
+
 Discord: @michyjz
+
 Instagram: @michael.jxu
+
 Github: @michyjz
+
 Email: jiazhuo.xu@gmail.com
