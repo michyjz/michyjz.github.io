@@ -13,7 +13,7 @@ Once I start working on some projects, I'll post them here!
 # Contact
 Feel free to reach out to me on these platforms~
 
-Discord: @michyjz
+[Discord](https://discordapp.com/users/545056316905750539)
 
 [Instagram](https://www.instagram.com/michael.jxu/)
 
@@ -21,4 +21,4 @@ Discord: @michyjz
 
 [LinkedIn](https://www.linkedin.com/in/michael-j-xu/)
 
-Email: jiazhuo.xu@gmail.com
+[Email](jiazhuo.xu@gmail.com)
