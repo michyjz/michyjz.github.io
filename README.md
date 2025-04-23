@@ -13,12 +13,8 @@ Once I start working on some projects, I'll post them here!
 # Contact
 Feel free to reach out to me on these platforms~
 
-[Discord](https://discordapp.com/users/545056316905750539)
-
-[Instagram](https://www.instagram.com/michael.jxu/)
-
-[Github](https://github.com/michyjz)
-
-[LinkedIn](https://www.linkedin.com/in/michael-j-xu/)
-
-[Email](mailto:jiazhuo.xu@gmail.com)
+[Discord](https://discordapp.com/users/545056316905750539) 
+[Instagram](https://www.instagram.com/michael.jxu/) 
+[Github](https://github.com/michyjz) 
+[LinkedIn](https://www.linkedin.com/in/michael-j-xu/) 
+[Email](mailto:jiazhuo.xu@gmail.com) 
