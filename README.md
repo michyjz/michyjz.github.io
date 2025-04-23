@@ -5,18 +5,20 @@ I'm Michael, an incoming freshman at the University of Texas at Austin, where I'
 
 I enjoy competitive programming and artificial intelligence/machine learning, and I'm also trying to learn web development.
 
-Some other hobbies I have are tennis, speedcubing, chess, k-pop, and anime!
+Some other hobbies I have are tennis, speedcubing, chess, video games, and anime!
 
 # Projects
 Once I start working on some projects, I'll post them here!
 
 # Contact
-Feel free to reach out to me 
+Feel free to reach out to me on these platforms~
 
 Discord: @michyjz
 
-Instagram: @michael.jxu
+[Instagram](https://www.instagram.com/michael.jxu/)
 
-Github: @michyjz
+[Github](https://github.com/michyjz)
+
+[LinkedIn](https://www.linkedin.com/in/michael-j-xu/)
 
 Email: jiazhuo.xu@gmail.com
