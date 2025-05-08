@@ -19,4 +19,4 @@ Feel free to reach out to me on these platforms~
 [LinkedIn](https://www.linkedin.com/in/michael-j-xu/) - 
 [Email](mailto:jiazhuo.xu@gmail.com) 
 
-[![Hits](https://hits.sh/michyjz.github.io.svg?style=for-the-badge)](https://hits.sh/michyjz.github.io/)
+[![Hits](https://hits.sh/michyjz.github.io.svg?view=today-total&style=for-the-badge&color=007ec6)](https://hits.sh/michyjz.github.io/)
