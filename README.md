@@ -18,3 +18,5 @@ Feel free to reach out to me on these platforms~
 [Github](https://github.com/michyjz) - 
 [LinkedIn](https://www.linkedin.com/in/michael-j-xu/) - 
 [Email](mailto:jiazhuo.xu@gmail.com) 
+
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
