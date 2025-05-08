@@ -18,5 +18,3 @@ Feel free to reach out to me on these platforms~
 [Github](https://github.com/michyjz) - 
 [LinkedIn](https://www.linkedin.com/in/michael-j-xu/) - 
 [Email](mailto:jiazhuo.xu@gmail.com) 
-
-<script type="text/javascript" src="https://counter.websiteout.com/js/2/0/0/0"></script>
