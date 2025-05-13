@@ -1,7 +1,7 @@
 # Introduction
 Hey!
 
-![Firefly from HSR](https://preview.redd.it/firefly-chibi-firefly-chibi-firefly-chibi-firefly-chibi-v0-e9kskta40e4d1.jpeg?width=640&crop=smart&auto=webp&s=5aad12ff656fe2b6a30683418b7f8a1c5c9e2cb3)
+![Firefly from HSR](https://github.com/michyjz/michyjz.github.io/blob/main/firefly.jpg)
 
 I'm Michael, an incoming freshman at the University of Texas at Austin, where I'm studying computer science in the Turing Scholars Honors Program.
 
