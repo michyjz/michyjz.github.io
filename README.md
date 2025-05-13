@@ -12,7 +12,7 @@ Some other hobbies I have are tennis, speedcubing, chess, video games, and anime
 # Tutoring
 I tutor CS and math for middle and high school students, so if you're interested for a private session let me know!
 
-I'm available for both online and in-person tutoring (Bay Area only). I charge $25 per hour but prices are negotiable.
+I'm available for online and in-person (Bay Area only). I charge $25 per hour but prices are negotiable.
 
 # Projects
 Once I start working on some projects, I'll post them here.
@@ -26,4 +26,4 @@ Feel free to reach out to me on these platforms ~
 [LinkedIn](https://www.linkedin.com/in/michael-j-xu/) - 
 [Email](mailto:jiazhuo.xu@gmail.com) 
 
-[![Hits](https://hits.sh/michyjz.github.io.svg?view=today-total&style=for-the-badge&color=007ec6)](https://hits.sh/michyjz.github.io/)
+[![Hits](https://hits.sh/fakezhiyuanli.github.io.svg?view=today-total&style=for-the-badge)](https://hits.sh/fakezhiyuanli.github.io/)
