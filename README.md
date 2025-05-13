@@ -9,11 +9,16 @@ I enjoy competitive programming and artificial intelligence/machine learning, an
 
 Some other hobbies I have are tennis, speedcubing, chess, video games, and anime!
 
+# Tutoring
+I tutor CS and math for middle and high school students, so if you're interested for a private session let me know!
+
+I'm available for both online and in-person tutoring (Bay Area only). I charge $25 per hour but prices are negotiable.
+
 # Projects
-Once I start working on some projects, I'll post them here!
+Once I start working on some projects, I'll post them here.
 
 # Contact
-Feel free to reach out to me on these platforms~
+Feel free to reach out to me on these platforms ~
 
 [Discord](https://discordapp.com/users/545056316905750539) - 
 [Instagram](https://www.instagram.com/michael.jxu/) - 
