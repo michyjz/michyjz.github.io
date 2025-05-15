@@ -1,8 +1,6 @@
 # Introduction
 Hey!
 
-![Firefly from HSR](https://github.com/michyjz/michyjz.github.io/blob/main/firefly.jpg)
-
 I'm Michael, an incoming freshman at the University of Texas at Austin, where I'm studying computer science in the Turing Scholars Honors Program.
 
 I enjoy competitive programming and artificial intelligence/machine learning, and I'm also trying to learn web development.
