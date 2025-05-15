@@ -5,7 +5,7 @@ I'm Michael, an incoming freshman at the University of Texas at Austin, where I'
 
 I enjoy competitive programming and artificial intelligence/machine learning, and I'm also trying to learn web development.
 
-Some other hobbies I have are tennis, speedcubing, chess, video games, and anime!
+Some other hobbies I have are tennis, chess, speedcubing, guitar, and video games!
 
 # Tutoring
 I tutor CS and math for middle and high school students, so if you're interested for a private session let me know!
@@ -16,7 +16,7 @@ I'm available for online and in-person (Bay Area only). I charge $25 per hour bu
 Once I start working on some projects, I'll post them here.
 
 # Contact
-Feel free to reach out to me on these platforms ~
+Feel free to reach out to me on these platforms!
 
 [Discord](https://discordapp.com/users/545056316905750539) - 
 [Instagram](https://www.instagram.com/michael.jxu/) - 
