@@ -21,11 +21,22 @@ Here are a few of the projects I've worked on the past, mainly from high school 
 
 Elevator Simulation - to be posted
 
+# Other Profiles
+Here are some other places you can find me online.
+
+[Github](https://github.com/michyjz) 
+
+[Codeforces](https://codeforces.com/profile/MichyJZ)
+
+[Chess.com](https://www.chess.com/member/michyjz)
+
 # Contact
 Feel free to reach out to me on these platforms!
 
-[Discord](https://discordapp.com/users/545056316905750539) - 
-[Instagram](https://www.instagram.com/michael.jxu/) - 
-[Github](https://github.com/michyjz) - 
-[LinkedIn](https://www.linkedin.com/in/michael-j-xu/) - 
+[Discord](https://discordapp.com/users/545056316905750539)
+
+[Instagram](https://www.instagram.com/michael.jxu/)
+
+[LinkedIn](https://www.linkedin.com/in/michael-j-xu/)
+
 [Email](mailto:jiazhuo.xu@gmail.com) 
