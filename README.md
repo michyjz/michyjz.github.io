@@ -8,7 +8,7 @@ I enjoy competitive programming and artificial intelligence/machine learning, an
 Some other hobbies I have are tennis, chess, speedcubing, guitar, and video games!
 
 # Tutoring
-I tutor CS and math for middle and high school students, so if you're interested for a private session let me know!
+I tutor CS and math (including USACO and AMC) for middle and high school students, so if you're interested for a private session let me know!
 
 I'm available for online and in-person (Bay Area only). I charge $25 per hour but prices are negotiable.
 
