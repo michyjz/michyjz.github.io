@@ -13,7 +13,10 @@ I tutor CS and math for middle and high school students, so if you're interested
 I'm available for online and in-person (Bay Area only). I charge $25 per hour but prices are negotiable.
 
 # Projects
-Once I start working on some projects, I'll post them here.
+Here are a few of the projects I've worked on the past, mainly from high school classes like AP Computer Science A and ADEN.
+[Chess](https://github.com/michyjz/chess)
+[Tetris](https://github.com/michyjz/tetris)
+Elevator Simulation - to be posted
 
 # Contact
 Feel free to reach out to me on these platforms!
