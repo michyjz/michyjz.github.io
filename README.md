@@ -14,8 +14,11 @@ I'm available for online and in-person (Bay Area only). I charge $25 per hour bu
 
 # Projects
 Here are a few of the projects I've worked on the past, mainly from high school classes like AP Computer Science A and ADEN.
+
 [Chess](https://github.com/michyjz/chess)
+
 [Tetris](https://github.com/michyjz/tetris)
+
 Elevator Simulation - to be posted
 
 # Contact
