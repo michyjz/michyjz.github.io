@@ -3,14 +3,14 @@ Hey!
 
 I'm Michael, an incoming freshman at the University of Texas at Austin, where I'm studying computer science in the Turing Scholars Honors Program.
 
-I enjoy competitive programming and artificial intelligence/machine learning, and I'm also trying to learn web development.
+I enjoy competitive programming and artificial intelligence/machine learning.
 
 Some other hobbies I have are tennis, chess, speedcubing, guitar, and video games!
 
 # Tutoring
-I tutor CS and math (including USACO and AMC) for middle and high school students, so if you're interested for a private session let me know!
+I tutor CS and math (including USACO and AMC) for middle and high school students, and I'm availaable for online and in-person (Bay Area only). 
 
-I'm available for online and in-person (Bay Area only). I charge $25 per hour but prices are negotiable.
+If you're interested for a private session please let me know and I'd be glad to help!
 
 # Projects
 Here are a few of the projects I've worked on the past, mainly from high school classes like AP Computer Science A and ADEN.
