@@ -10,7 +10,7 @@ Some other hobbies I have are tennis, chess, speedcubing, guitar, and video game
 # Tutoring
 I tutor CS and math (including USACO and AMC) for middle and high school students, and I'm availaable for online and in-person (Bay Area only). 
 
-If you're interested for a private session please let me know and I'd be glad to help!
+If you're interested for a private session please email me at jiazhuo.xu at gmail.com
 
 # Projects
 Here are a few of the projects I've worked on the past, mainly from high school classes like AP Computer Science A and ADEN.
