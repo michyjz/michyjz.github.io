@@ -9,7 +9,7 @@ Some other hobbies I have are tennis, chess, speedcubing, guitar, and video game
 
 # Achievements
 
-I'm a USACO Platinum competitor (passed USACO Gold on the December 2023 contest with a full score of 1000), achieved a perfect score on the AP Computer Science A Exam in 2023 (top 0.1% of all students), and a 2025 National Merit Finalist (1520 PSAT, 228 selection index).
+I'm a USACO Platinum competitor (passed USACO Gold on the December 2023 contest with a full score of 1000), achieved a perfect score on the AP Computer Science A Exam in 2023, and a 2025 National Merit Scholarship Finalist.
 
 # Tutoring
 I tutor CS and math (including USACO and AMC) for middle and high school students, and I'm availaable for online and in-person (Bay Area only). 
