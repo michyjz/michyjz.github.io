@@ -39,4 +39,4 @@ Feel free to reach out to me on these platforms!
 
 [LinkedIn](https://www.linkedin.com/in/michael-j-xu/)
 
-[Email](mailto:jiazhuo.xu@gmail.com) 
+Email: jiazhuo.xu at gmail.com
