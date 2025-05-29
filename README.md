@@ -25,7 +25,7 @@ Here are a few of the projects I've worked on the past, mainly from high school 
 
 [Tetris](https://github.com/michyjz/tetris)
 
-Elevator Simulation - to be posted
+[Elevator Simulation](https://github.com/michyjz/elevator-simulation)
 
 # Other Profiles
 Here are some other places you can find me online.
