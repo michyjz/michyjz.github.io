@@ -27,6 +27,10 @@ Here are a few of the projects I've worked on the past, mainly from high school 
 
 [Elevator Simulation](https://github.com/michyjz/elevator-simulation)
 
+# Speedcubing
+
+One of my favorite hobbies is speedcubing, or solving Rubik's Cubes as fast as possible. My WCA ID is 2015XUJI03, but I really only seriously started getting back into cubing this year. My favorite events are 3x3 and skewb.
+
 # Other Profiles
 Here are some other places you can find me online.
 
