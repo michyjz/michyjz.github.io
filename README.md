@@ -12,11 +12,11 @@ Some other hobbies I have are tennis, chess, speedcubing, guitar, and video game
 I'm a USACO Platinum competitor (passed USACO Gold on the December 2023 contest with a full score of 1000), achieved a perfect score on the AP Computer Science A Exam in 2023, and a 2025 National Merit Scholarship Finalist.
 
 # Tutoring
-I tutor CS and math (including USACO and AMC) for middle and high school students.
+I tutor math and CS for middle and high school students.
 
-Some past experience I have is TA for X-Camp Academy USACO Silver Camp and 400 level classes, as well as peer tutoring for over 2 years at my high school.
+Some past experience I have is TA for X-Camp Academy USACO Silver Camp and 400 level classes, as well as peer tutoring for 3 years at my high school.
 
-I'm available for online and in-person (Bay Area only). If you're interested for a private session please email me at jiazhuo.xu at gmail.com
+I'm available for online and in-person (Bay Area only). If you're interested for a private session (first one is free!) please check out [MX Tutoring](https://sites.google.com/view/mxtutoring).
 
 # Projects
 Here are a few of the projects I've worked on the past, mainly from high school classes like AP Computer Science A and ADEN.
