@@ -16,7 +16,7 @@ I tutor math and CS for middle and high school students.
 
 Some past experience I have is TA for X-Camp Academy USACO Silver Camp and 400 level classes, as well as peer tutoring for 3 years at my high school.
 
-I'm available for online and in-person (Bay Area only). If you're interested for a private session (first one is free!) please check out [MX Tutoring](https://sites.google.com/view/mxtutoring).
+If you're interested for a private session (free first session!) please check out [MX Tutoring](https://sites.google.com/view/mxtutoring).
 
 # Projects
 Here are a few of the projects I've worked on the past, mainly from high school classes like AP Computer Science A and ADEN.
