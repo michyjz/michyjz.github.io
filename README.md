@@ -29,7 +29,7 @@ Here are a few of the projects I've worked on the past, mainly from high school 
 
 # Speedcubing
 
-One of my favorite hobbies is [speedcubing](https://en.wikipedia.org/wiki/Speedcubing). My WCA ID is 2015XUJI03, and my favorite events are 3x3 and skewb.
+One of my favorite hobbies is [speedcubing](https://en.wikipedia.org/wiki/Speedcubing). My WCA ID is [2015XUJI03](https://www.worldcubeassociation.org/persons/2015XUJI03), and my favorite events are 3x3 and skewb.
 
 # Other Profiles
 Here are some other places you can find me online.
